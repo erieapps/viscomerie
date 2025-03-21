@@ -1,2 +1,0 @@
-# viscomerie
-GitHub Pages
